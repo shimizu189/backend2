@@ -6,7 +6,4 @@ class Ausleihvorgang {
       this.enddatum = enddatum; // Datum, an dem der Artikel zurückgegeben werden soll
       this.ausleihartikelIds = ausleihartikelIds; // IDs der ausgeliehenen Artikel
     }
-  }jkos
-  fdfd
-  dsdsd
-  afcuigasicubgqacbaweuhcewc
+  }
