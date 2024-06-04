@@ -7,3 +7,5 @@ class Ausleihvorgang {
       this.ausleihartikelIds = ausleihartikelIds; // IDs der ausgeliehenen Artikel
     }
   }jkos
+  fdfd
+  dsdsd
