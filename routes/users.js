@@ -4,6 +4,7 @@ var router = express.Router();
 // User routes
 router.get('/users', function(req, res, next) {
   // Retrieve all users
+
 });
 
 router.post('/users', function(req, res, next) {
@@ -21,3 +22,4 @@ router.put('/users/:id', function(req, res, next) {
 router.delete('/users/:id', function(req, res, next) {
   // Delete a user by id
 });
+module.exports = router;

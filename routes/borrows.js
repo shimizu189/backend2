@@ -22,4 +22,4 @@ router.get('/borrows', function(req, res, next) {
   router.delete('/borrows/:id', function(req, res, next) {
     // Delete a borrow by id
   });
-  
+  module.exports = router;

@@ -22,3 +22,4 @@ router.get('/equipment', function(req, res, next) {
   router.delete('/equipment/:id', function(req, res, next) {
     // Delete an equipment item by id
   });
+  module.exports = router;
