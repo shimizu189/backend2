@@ -5,6 +5,7 @@ var router = express.Router();
 router.get('/users', function(req, res, next) {
   // Retrieve all users
 
+
 });
 
 router.post('/users', function(req, res, next) {

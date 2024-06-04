@@ -5,6 +5,7 @@ const router = express.Router();
 // Borrow routes
 router.get('/borrows', function(req, res, next) {
     // Retrieve all borrows
+    
   });
   
   router.post('/borrows', function(req, res, next) {
